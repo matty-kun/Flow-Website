@@ -70,7 +70,7 @@ export default function Home() {
               <h2>Join our community</h2>
               <p>Connect with thousands of Flow users. Share your focus wins, get tips, and stay inspired to do your best work.</p>
             </div>
-            <Link href="#" className="btn-community">Join our Facebook Group</Link>
+            <Link href="https://www.facebook.com/groups/slowissmooth" target="_blank" rel="noopener noreferrer" className="btn-community">Join our Facebook Group</Link>
           </div>
         </section>
 
